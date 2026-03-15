@@ -10,3 +10,4 @@ Includes:
 - [ModHub](https://www.nexusmods.com/schedule1/mods/1567?tab=files&file_id=5137)
 - [Fixed Vank0's Better Minimap](https://www.nexusmods.com/schedule1/mods/1580?tab=description)
 - [Extra NPC's](https://www.nexusmods.com/schedule1/mods/1609?tab=files&file_id=5183)
+- [RVFix](https://www.nexusmods.com/schedule1/mods/1563?tab=files&file_id=4676)
