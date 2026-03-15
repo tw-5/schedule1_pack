@@ -1,6 +1,7 @@
-requires [MelonLoader](https://melonwiki.xyz/#/)
+Requires 
+- [MelonLoader](https://melonwiki.xyz/#/)
 
-includes: 
+Includes: 
 - [S1APIForked](https://www.nexusmods.com/schedule1/mods/1194?tab=posts)
 - [HUB - Dispensary](https://www.nexusmods.com/schedule1/mods/1585?tab=description)
 - [Mod Manager - Phone App](https://www.nexusmods.com/schedule1/mods/397?tab=posts)
